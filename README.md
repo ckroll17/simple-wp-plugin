@@ -2,4 +2,4 @@
 
 Using WordPress Codex, php, and one function, I built out a handy plugin that will place a link in the top dashboard menu to give quick access to the Google Analytics site. 
 
-[WP Plugin GA Menu]: (https://raw.githubusercontent.com/ckroll17/simple-wp-plugin/master/images/wp-plugin-example.jpg)
+![WP Plugin Example](simple-wp-plugin/images/wp-plugin-example.jpg)
